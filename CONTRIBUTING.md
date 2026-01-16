@@ -42,7 +42,7 @@ Feature requests are welcome! Please open an issue describing:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rag-mcp-server.git
+   git clone https://github.com/torkian/rag-mcp-server.git
    cd rag-mcp-server
    ```
 

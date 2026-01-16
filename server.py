@@ -6,7 +6,7 @@ This server provides a 'search_rag' tool that Claude Desktop can use to search
 through a knowledge base. Currently returns test data, but can be easily customized
 to connect to your own RAG API, vector database, or document store.
 
-GitHub: https://github.com/yourusername/rag-mcp-server
+GitHub: https://github.com/torkian/rag-mcp-server
 Documentation: See README.md
 
 Author: RAG MCP Server Contributors

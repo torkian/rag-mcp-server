@@ -27,7 +27,7 @@ This MCP server exposes a `search_rag` tool that Claude Desktop can use to searc
 ### Step 1: Clone or Download This Repository
 
 ```bash
-git clone https://github.com/yourusername/rag-mcp-server.git
+git clone https://github.com/torkian/rag-mcp-server.git
 cd rag-mcp-server
 ```
 

@@ -15,7 +15,7 @@ Don't have Python? [Download it here](https://www.python.org/downloads/)
 ## Step 2: Download This Project
 
 ```bash
-git clone https://github.com/yourusername/rag-mcp-server.git
+git clone https://github.com/torkian/rag-mcp-server.git
 cd rag-mcp-server
 ```
 
@@ -86,4 +86,4 @@ See the [Troubleshooting section](README.md#-troubleshooting) in the main README
 - Add more tools
 - Check out the full [README](README.md)
 
-Need help? [Open an issue](https://github.com/yourusername/rag-mcp-server/issues)
+Need help? [Open an issue](https://github.com/torkian/rag-mcp-server/issues)
