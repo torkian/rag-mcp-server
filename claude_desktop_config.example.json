@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rag-server": {
+      "command": "python3",
+      "args": ["/absolute/path/to/rag-mcp-server/server.py"]
+    }
+  }
+}
